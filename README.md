@@ -48,8 +48,8 @@ second and after its completion P3 takes the CPU and completes its execution.
 
 For each scheduler output the following:
 
-        ◦ Processes execution order 
-        ◦ Waiting Time for each process	
-        ◦ Turnaround  Time  for each process
-        ◦ Average Waiting Time  
-        ◦ Average Turnaround  Time
+    • Processes execution order 
+    • Waiting Time for each process
+    • Turnaround  Time  for each process
+    • Average Waiting Time 
+    • Average Turnaround Time 
